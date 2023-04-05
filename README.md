@@ -18,7 +18,7 @@ This solution allows you to manage financial aspects of your projects and includ
 
 ## Deployment instructions
 - Deploy the **PMO Accelerator** first by following instructions [here](https://learn.microsoft.com/en-us/project-for-the-web/deploy-project-for-web-accelerator-power-bi-template)
-- Download the **PMO Accelerator Finances** solution from [here](/ProjectsEnterprise_1_0_0_1_managed.zip)
+- Download the **PMO Accelerator Finances** solution from [here](/ProjectsEnterprise_1_0_0_2_managed.zip)
 - Download the **PMO Accelerator Finances** PowerBI report from [here](/Projects%20Enterprise.pbit)
 - Import the PMO Accelerator Finances solution to environment where your PMO Accelerator is deployed
 
