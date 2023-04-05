@@ -23,7 +23,7 @@ This solution allows you to manage financial aspects of your projects and includ
 ![Alt text](/images/04_contract_details.png "Contract details")
 
 ## Invoices
-![Alt text](/images/01_budget.png "Budget years")
+![Alt text](/images/05_Invoice.png "Invoices")
 
 ## Budget and contract execution report
-![Alt text](/images/01_budget.png "Budget years")
+![Alt text](/images/06_Finances_Report.png "budget and contract execution")
