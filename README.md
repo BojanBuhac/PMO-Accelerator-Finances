@@ -10,6 +10,11 @@ This solution allows you to manage financial aspects of your projects and includ
 - Invoices
 - PowerBI budget and contract execution (in development)
 
+## Deployment instructions
+- Deploy the **PMO Accelerator** first by following instructions [here](https://learn.microsoft.com/en-us/project-for-the-web/deploy-project-for-web-accelerator-power-bi-template)
+- Download the **PMO Accelerator Finances** solution from [here](/ProjectsEnterprise_1_0_0_1_managed.zip)
+- Import the PMO Accelerator Finances solution to environment where your PMO Accelerator is deployed
+
 ## Budget years
 ![Alt text](/images/01_budget.png "Budget years")
 
