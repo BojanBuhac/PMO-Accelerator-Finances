@@ -39,3 +39,6 @@ This solution allows you to manage financial aspects of your projects and includ
 
 ## Budget and contract execution report
 ![Alt text](/images/06_Finances_Report.png "budget and contract execution")
+
+## Add to PMO Team in MS Teams
+![Alt text](/images/07_run_in_teams.png "Run in MS Teams")
