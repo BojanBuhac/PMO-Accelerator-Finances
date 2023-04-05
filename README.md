@@ -22,23 +22,23 @@ This solution allows you to manage financial aspects of your projects and includ
 - Download the **PMO Accelerator Finances** PowerBI report from [here](/Projects%20Enterprise.pbit)
 - Import the PMO Accelerator Finances solution to environment where your PMO Accelerator is deployed
 
-## Budget years
+### Budget years
 ![Alt text](/images/01_budget.png "Budget years")
 
-## Budget items
+### Budget items
 ![Alt text](/images/02_budget_items.png "Budget items")
 
-## Contracts
+### Contracts
 ![Alt text](/images/03_contracts.png "Contract")
 
-## Contract details
+### Contract details
 ![Alt text](/images/04_contract_details.png "Contract details")
 
-## Invoices
+### Invoices
 ![Alt text](/images/05_Invoice.png "Invoices")
 
 ## Budget and contract execution report
 ![Alt text](/images/06_Finances_Report.png "budget and contract execution")
 
-## Add to PMO Team in MS Teams
+### Add to PMO Team in MS Teams
 ![Alt text](/images/07_run_in_teams.png "Run in MS Teams")
