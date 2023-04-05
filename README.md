@@ -11,8 +11,8 @@ The **PMO Accelerator Finances** solution also includes powerful reporting capab
 This solution allows you to manage financial aspects of your projects and includes:
 - Budget years
 - Budget items
-- Budget item by month
 - Contracts
+- Contract details
 - Invoices
 - PowerBI budget and contract execution (in development)
 
